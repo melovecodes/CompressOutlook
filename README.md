@@ -1,0 +1,2 @@
+# CompressOutlook
+Compress Outlook Folder
